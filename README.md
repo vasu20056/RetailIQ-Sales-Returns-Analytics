@@ -45,6 +45,13 @@ RetailIQ helps explore sales performance across countries, monitor product retur
 ## Project Goal
 
 To turn raw retail transaction data into an interactive report that makes sales performance and product returns easier to explore.
+## Dashboard Preview
+
+### Sales & Returns Overview
+![Sales & Returns Overview](sales-returns-overview.png)
+
+### Product Performance
+![Product Performance](product-performance.png)
 
 ---
 
